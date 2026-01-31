@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I'am currently a second-year university student exploring the world of technology with the goal of becoming a software engineer. I began my journey by attending a small bootcamp at Zone01, where I learned Bash scripting and the Go programming language.<br><br>Through Go, I built projects and understood core programming concepts, but I later realized that a programming language is simply a tool — not something to be emotionally attached to. This mindset pushed me to explore other technologies and broaden my skills.<br><br>In 2025, I participated in two hackathons: Hackchrono (1st edition) and Meet the Lead (7th edition). In the first hackathon, I didn’t reach the top three due to mistakes I made. Instead of giving up, I analyzed those mistakes and improved. This growth paid off during Meet the Lead, where my team and I won 1st place.<br><br>Currently, I am learning backend development with Laravel and frontend development with React and Astro. One of my main projects is a Chirps application — similar to Twitter — built using Laravel. Another project focuses on designing a scalable project structure to improve teamwork and development efficiency.<br><br>Through this process, I learned how to use Docker to simplify collaboration, allowing future developers and club members working on our portfolio website to contribute easily without environment issues.<br><br>This is why I love programming: solving real-world problems through technology and collaboration.
+Things i want to say, i deeply thank the Zone01 Association for teaching me the hard truth about software and tech, it is not simple and it  will never be, but with hard work and dedication.
+You will make it, and i also appreciate all the friends i met in the Zone01 Piscine, Abd noor, Ahmed, Hamza, Mimone, Laarbi, Reda, and Youssef. showed me how real programming is only about problem solving and deep thinking, well it ain't simple but you gotta try it 🙂.
 
-<!--
-**Alilacream/Alilacream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alilacrim_04808) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedali.amara.24@ump.ac.ma) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alilacream&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alilacream&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alilacream&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- Wa gha n7maa9 -->
