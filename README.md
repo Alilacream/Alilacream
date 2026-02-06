@@ -3,7 +3,7 @@ I'am currently a second-year university student exploring the world of technolog
 Things i want to say, i deeply thank the Zone01 Association for teaching me the hard truth about software and tech, it is not simple and it  will never be, but with hard work and dedication.
 You will make it, and i also appreciate all the friends i met in the Zone01 Piscine, Abd noor, Ahmed, Hamza, Mimone, Laarbi, Reda, and Youssef. showed me how real programming is only about problem solving and deep thinking, well it ain't simple but you gotta try it 🙂.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alilacrim_04808) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedali.amara.24@ump.ac.ma) 
 
 # 💻 Tech Stack:
