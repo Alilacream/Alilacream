@@ -1,18 +1,43 @@
-# 💫 About Me:
-I'am currently a second-year university student exploring the world of technology with the goal of becoming a software engineer. I began my journey by attending a small bootcamp at Zone01, where I learned Bash scripting and the Go programming language.<br><br>Through Go, I built projects and understood core programming concepts, but I later realized that a programming language is simply a tool — not something to be emotionally attached to. This mindset pushed me to explore other technologies and broaden my skills.<br><br>In 2025, I participated in two hackathons: Hackchrono (1st edition) and Meet the Lead (7th edition). In the first hackathon, I didn’t reach the top three due to mistakes I made. Instead of giving up, I analyzed those mistakes and improved. This growth paid off during Meet the Lead, where my team and I won 1st place.<br><br>Currently, I am learning backend development with Laravel and frontend development with React and Astro. One of my main projects is a Chirps application — similar to Twitter — built using Laravel. Another project focuses on designing a scalable project structure to improve teamwork and development efficiency.<br><br>Through this process, I learned how to use Docker to simplify collaboration, allowing future developers and club members working on our portfolio website to contribute easily without environment issues.<br><br>This is why I love programming: solving real-world problems through technology and collaboration.
-Things i want to say, i deeply thank the Zone01 Association for teaching me the hard truth about software and tech, it is not simple and it  will never be, but with hard work and dedication.
-You will make it, and i also appreciate all the friends i met in the Zone01 Piscine, Abd noor, Ahmed, Hamza, Mimone, Laarbi, Reda, and Youssef. showed me how real programming is only about problem solving and deep thinking, well it ain't simple but you gotta try it 🙂.
+# 💫 About Me
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alilacrim_04808) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedali.amara.24@ump.ac.ma) 
+I am a **Software Engineering student** currently in my second year, focused on building scalable and efficient digital solutions. My journey began at **Zone01**, where I mastered the fundamentals of Bash and Go, and more importantly, learned that programming languages are just tools—not identities.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alilacream&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alilacream&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alilacream&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🏆 Achievements & Milestones
+* **1st Place Winner:** Meet the Lead (7th Edition, 2025)
+* **Finalist:** Hackchrono (1st Edition) – *A pivotal experience where I learned to analyze mistakes and iterate toward success.*
+* **Collaborative Lead:** Implementing Dockerized workflows to streamline development for our club's portfolio projects.
 
+### 🛠️ Current Focus
+I am currently deep-diving into **Backend Development** with Laravel and exploring **Modern Frontend** architectures using React and Astro. My current "big" project is a scalable Twitter-like application (Chirps) designed with clean architecture principles.
 
+---
 
-<!-- Wa gha n7maa9 -->
+# 💻 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white) ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=black) |
+| **Tools & Databases** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
+
+---
+
+# 📊 Activity & Stats
+
+Instead of chasing streaks, I focus on consistent impact and solving real problems.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alilacream&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alilacream&theme=react-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alilacream&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🤝 Special Thanks
+I owe a lot of my technical mindset to the **Zone01 Association**. To my friends from the Zone01 Piscine—**Abd noor, Ahmed, Hamza, Mimone, Laarbi, Reda, and Youssef**—thank you for proving that programming is about deep thinking and shared struggle. *It ain't simple, but it's worth it.*
+
+# 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alilacrim_04808) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedali.amara.24@ump.ac.ma)
