@@ -17,7 +17,7 @@ I am currently deep-diving into **Backend Development** with Laravel and explori
 | Category | Technologies |
 | :--- | :--- |
 | **Programming Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Frameworks & Libraries** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white) ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=black) |
+| **Frameworks & Libraries** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=black) |
 | **Tools & Databases** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
 
 ---
