@@ -8,7 +8,8 @@ I am a **Software Engineering student** currently in my second year, focused on 
 * **Collaborative Lead:** Implementing Dockerized workflows to streamline development for our club's portfolio projects.
 
 ### 🛠️ Current Focus
-I am currently deep-diving into **Backend Development** with Laravel and exploring **Modern Frontend** architectures using React and Astro. My current "big" project is a scalable Twitter-like application (Chirps) designed with clean architecture principles.
+I am currently deep-diving into **FullStack Development** with Nextjs/Laravel and exploring **Modern Frontend** architectures using React. My current "big" project is a scalable job offers market app called Amastroy, i currently hosted the MVP via [Amastroy](https://amastroy.com) designed with clean architecture principles (did my best).
+although the project need some refinement, because i'll keep the SaaS product in a diffrent dns, while the main dns is for company profile.
 
 ---
 
