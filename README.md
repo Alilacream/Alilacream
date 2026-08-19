@@ -1,45 +1,169 @@
-# 💫 About Me
+<div align="center">
 
-I am a **Software Engineering student** currently in my second year, focused on building scalable and efficient digital solutions. My journey began at **Zone01**, where I mastered the fundamentals of Bash and Go, and more importantly, learned that programming languages are just tools—not identities.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Ali%20Amara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Zone01er&descAlignY=55&descSize=18" width="100%"/>
 
-### 🏆 Achievements & Milestones
-* **1st Place Winner:** Meet the Lead (7th Edition, 2025)
-* **Finalist:** Hackchrono (1st Edition) – *A pivotal experience where I learned to analyze mistakes and iterate toward success.*
-* **Collaborative Lead:** Implementing Dockerized workflows to streamline development for our club's portfolio projects.
+<a href="https://amastroy.com">
+  <img src="https://img.shields.io/badge/🚀_LIVE_PROJECT-Amastroy-2c5364?style=for-the-badge&labelColor=0f2027" />
+</a>
 
-### 🛠️ Current Focus
-I am currently deep-diving into **FullStack Development** with Nextjs/Laravel and exploring **Modern Frontend** architectures using React. My current "big" project is a scalable job offers market app called Amastroy, i currently hosted the MVP via [Amastroy](https://amastroy.com) designed with clean architecture principles (did my best).
-although the project need some refinement, because i'll keep the SaaS product in a diffrent dns, while the main dns is for company profile.
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Zone01;Builder+of+Amastroy+%E2%80%94+Job+Market+SaaS;FullStack+%3A+Next.js+%2B+Laravel+%2B+React;Learning+by+breaking+things+%E2%80%94+then+fixing+them" alt="Typing SVG" />
 
-# 💻 Tech Stack
+</div>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Frameworks & Libraries** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=black) |
-| **Tools & Databases** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
+<br/>
 
----
+## 💫 About Me
 
-# 📊 Activity & Stats
+I'm a **Software Engineering student** in my second year, focused on building scalable, efficient digital products. My journey started at **Zone01**, where I learned the fundamentals of Bash and Go — and more importantly, that a programming language is a tool, not an identity.
 
-Instead of chasing streaks, I focus on consistent impact and solving real problems.
+```yaml
+whoami:
+  name: Mohamed Ali Amara
+  role: Software Engineering Student
+  currently_building: Amastroy — a job offers marketplace SaaS
+  currently_learning: FullStack architecture (Next.js / Laravel / React)
+  philosophy: "It ain't simple, but it's worth it."
+```
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alilacream&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alilacream&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alilacream&theme=react-dark)
+## 🏆 Achievements & Milestones
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🤝 Special Thanks
-I owe a lot of my technical mindset to the **Zone01 Association**. To my friends from the Zone01 Piscine—**Abd noor, Ahmed, Hamza, Mimone, Laarbi, Reda, and Youssef**—thank you for proving that programming is about deep thinking and shared struggle. *It ain't simple, but it's worth it.*
+### 🥇 1st Place — Meet the Lead
+**7th Edition, 2025**
+Placed first in a competitive team-based challenge.
 
-# 🌐 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alilacrim_04808) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedali.amara.24@ump.ac.ma)
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Finalist — Hackchrono
+**1st Edition**
+A pivotal experience — learned to analyze failure and iterate toward success.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 Collaborative Lead — Dockerized Workflows
+Streamlined development across the club's portfolio projects using Docker.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Founder — Amastroy
+Designed and shipped an MVP job-market platform, live at [amastroy.com](https://amastroy.com).
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[FullStack Development] --> B[Next.js]
+    A --> C[Laravel]
+    A --> D[React / Modern Frontend]
+    E[Amastroy] --> F[MVP Live at amastroy.com]
+    E --> G[Clean Architecture]
+    E --> H[Splitting SaaS DNS ↔ Company Profile DNS]
+
+    style A fill:#0f2027,stroke:#38BDF8,color:#fff
+    style E fill:#203a43,stroke:#38BDF8,color:#fff
+```
+
+</div>
+
+> Amastroy still needs refinement — the plan is to move the SaaS product to its own DNS, keeping the main domain for the company profile.
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Tools & Databases**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 Activity & Stats
+
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alilacream&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alilacream&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alilacream&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alilacream&theme=tokyo-night&hide_border=true" width="98%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alilacream&theme=tokyonight&no-frame=true&row=1&column=6" width="98%" />
+</div>
+
+> 📌 Not chasing streaks — chasing consistent impact and real problems solved.
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Alilacream/Alilacream/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<sub>ℹ️ To enable this, add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action on your profile repo — it auto-generates the snake SVG above.</sub>
+
+<br/>
+
+## 🤝 Special Thanks
+
+A big part of my technical mindset comes from the **Zone01 Association**. To my friends from the Zone01 Piscine — **Abd Noor, Ahmed, Hamza, Mimone, Laarbi, Reda, and Youssef** — thank you for proving that programming is about deep thinking and shared struggle.
+
+> *"It ain't simple, but it's worth it."*
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/alilacrim_04808)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedali.amara.24@ump.ac.ma)
+[![Amastroy](https://img.shields.io/badge/Amastroy-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://amastroy.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
