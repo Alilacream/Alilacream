@@ -85,7 +85,9 @@ graph LR
 
 </div>
 
-> Amastroy still needs refinement — the plan is to move the SaaS product to its own DNS, keeping the main domain for the company profile.
+> Amastroy still needs refinement — the plan is to move to a graphql instance for calling job markets, and i need to implement caching for custom private tenders in our site.
+> As well for a RAG Model so the Ai can give out best job offers for the user's expertise.
+> yeah i need a lot.
 
 <br/>
 
@@ -100,6 +102,7 @@ graph LR
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-python-89CFF0?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -109,12 +112,21 @@ graph LR
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools & Databases**
-
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Thrived To Learn**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=for-the-badge&logo=timescaledb&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -137,15 +149,6 @@ graph LR
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Alilacream/Alilacream/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<sub>ℹ️ To enable this, add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action on your profile repo — it auto-generates the snake SVG above.</sub>
-
-<br/>
 
 ## 🤝 Special Thanks
 
