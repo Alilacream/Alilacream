@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+Zone01;Builder+of+Amastroy+%E2%80%94+Job+Market+SaaS;FullStack+%3A+Next.js+%2B+Laravel+%2B+React;Learning+by+breaking+things+%E2%80%94+then+fixing+them" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+FSO;Builder+of+Amastroy+%E2%80%94+Job+Market+SaaS;FullStack+%3A+Next.js+%2B+Laravel+%2B+React;Learning+by+breaking+things+%E2%80%94+then+fixing+them" alt="Typing SVG" />
 
 </div>
 
