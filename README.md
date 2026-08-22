@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Ali%20Amara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%s SWA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Ali%20Amara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%sSWA&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://amastroy.com">
   <img src="https://img.shields.io/badge/🚀_LIVE_PROJECT-Amastroy-2c5364?style=for-the-badge&labelColor=0f2027" />
