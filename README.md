@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Ali%20Amara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%sSWA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Ali%20Amara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://amastroy.com">
   <img src="https://img.shields.io/badge/🚀_LIVE_PROJECT-Amastroy-2c5364?style=for-the-badge&labelColor=0f2027" />
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+FSO;Builder+of+Amastroy+%E2%80%94+Job+Market+SaaS;FullStack+%3A+Next.js+%2B+Laravel+%2B+React;Learning+by+breaking+things+%E2%80%94+then+fixing+them" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=3rd+Year+Student+%40+Faculty+of+Science+Oujda;2+Products+Shipped%3A+Amastroy+%26+Math%C3%A9confiance;Next.js+%2B+React+%2B+Flutter;Learning+by+breaking+things+%E2%80%94+then+fixing+them" alt="Typing SVG" />
 
 </div>
 
@@ -16,16 +16,60 @@
 
 ## 💫 About Me
 
-I'm a **Software Engineering student** in my second year, focused on building scalable, efficient digital products. My journey started at **Zone01**, where I learned the fundamentals of Bash and Go — and more importantly, that a programming language is a tool, not an identity.
+I'm a **third-year student at the Faculty of Science in Oujda**, dedicating myself to learning as many programming topics as I can on the road to **becoming a software engineer**. My journey started at **Zone01**, where I learned the fundamentals of Bash and Go — and more importantly, that a programming language is a tool, not an identity.
 
 ```yaml
 whoami:
   name: Mohamed Ali Amara
-  role: Software Engineering Student
-  currently_building: Amastroy — a job offers marketplace SaaS
-  currently_learning: FullStack architecture (Next.js / Laravel / React)
+  role: 3rd-year student @ Faculty of Science, Oujda
+  goal: Become a software engineer
+  projects_shipped: 2
+  stack: Next.js, React, Flutter
+  currently_learning: Data Analysis, System Design, AWS, IoT
   philosophy: "It ain't simple, but it's worth it."
 ```
+
+<br/>
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [Amastroy](https://amastroy.com) — ✅ Done
+A marketplace platform for **public and private markets** (*marchés publics et privés*), including **purchase orders** (*bons de commande*). Designed and shipped as a live product.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 Mathéconfiance — ✅ Done
+A **gamified education platform** built for a professor teaching **online foreign students and engineers**, making learning math more engaging and motivating.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🔭 Up Next
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Market Prices Data Pipeline
+A data pipeline that collects and processes market prices so an **AI can make buy / sell decisions**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Architect Portfolio Website
+A **beautiful, polished portfolio site** for an architect — where design and engineering meet.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -58,7 +102,7 @@ Streamlined development across the club's portfolio projects using Docker.
 <td width="50%" valign="top">
 
 ### 🌱 Founder — Amastroy
-Designed and shipped an MVP job-market platform, live at [amastroy.com](https://amastroy.com).
+Designed and shipped a live platform for public and private markets at [amastroy.com](https://amastroy.com).
 
 </td>
 </tr>
@@ -72,22 +116,18 @@ Designed and shipped an MVP job-market platform, live at [amastroy.com](https://
 
 ```mermaid
 graph LR
-    A[FullStack Development] --> B[Next.js]
-    A --> C[Laravel]
-    A --> D[React / Modern Frontend]
-    E[Amastroy] --> F[MVP Live at amastroy.com]
-    E --> G[Clean Architecture]
-    E --> H[Splitting SaaS DNS ↔ Company Profile DNS]
+    A[Becoming a Software Engineer] --> B[Data Analysis]
+    A --> C[System Design]
+    A --> D[AWS]
+    A --> E[IoT]
+    F[Next Projects] --> G[Market Prices Pipeline + AI Decisions]
+    F --> H[Architect Portfolio Site]
 
     style A fill:#0f2027,stroke:#38BDF8,color:#fff
-    style E fill:#203a43,stroke:#38BDF8,color:#fff
+    style F fill:#203a43,stroke:#38BDF8,color:#fff
 ```
 
 </div>
-
-> Amastroy still needs refinement — the plan is to move to a graphql instance for calling job markets, and i need to implement caching for custom private tenders in our site.
-> As well for a RAG Model so the Ai can give out best job offers for the user's expertise.
-> yeah i need a lot.
 
 <br/>
 
@@ -104,12 +144,11 @@ graph LR
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-python-89CFF0?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks & Libraries**
+**Main Stack**
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Tools & Databases**
 
@@ -119,17 +158,20 @@ graph LR
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Thrived To Learn**
+**Currently Learning**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=for-the-badge&logo=timescaledb&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![System Design](https://img.shields.io/badge/-System_Design-38BDF8?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 </div>
+
+<br/>
+
+## 🌍 Someday List
+
+> 🇨🇳 **Learn Chinese (Mandarin)** — I truly want to, but I can't plan it yet since I don't have the free time. One day!
 
 <br/>
 
@@ -149,7 +191,6 @@ graph LR
 > 📌 Not chasing streaks — chasing consistent impact and real problems solved.
 
 <br/>
-
 
 ## 🤝 Special Thanks
 
